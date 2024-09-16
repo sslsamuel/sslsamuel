@@ -1,5 +1,9 @@
 # I am Samuel, good day 🥸
 
+I am a Level 6 Digital & Technology Solutions Degree Apprentice as a Software Engineer.
+
+I am studying with Queen Mary University of London and I primarily work with Python.
+
 <!--
 **sslsamuel/sslsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
